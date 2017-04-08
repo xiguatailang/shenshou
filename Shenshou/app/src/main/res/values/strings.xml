@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shenshou</string>
+    <string name="edit_message">a input for message</string>
+    <string name="button_send">send</string>
+    <string name="action_settings">setting</string>
+
+</resources>
